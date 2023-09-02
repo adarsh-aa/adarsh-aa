@@ -5,10 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adarshkamath28@gmail.com)
 
 Welcome to my Github page! I am Adarsh and I am currently finishing my Computer Application Master degree at APJ Abdul Kalam Technological University!  
-<div align="center">
-<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="245" height="180">
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Application Master Degree   
 
